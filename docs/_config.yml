@@ -1,1 +1,4 @@
 theme: minima
+title: techlaw dot tech
+description: > # this means to ignore newlines until "show_excerpts:"
+  this is mostly about parking the root domain. You probably found this looking at a sideproject hosted at a techlaw subdomain. There's not much here.
