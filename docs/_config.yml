@@ -5,3 +5,4 @@ description: > # this means to ignore newlines until "show_excerpts:"
   You probably found this page because you saw a sideproject hosted at a techlaw subdomain. 
   There's not much here. If I ever post something, you'll see it on the RSS feed.
 show_excerpts: false
+show_drafts: false
