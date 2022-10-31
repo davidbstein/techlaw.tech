@@ -7,3 +7,4 @@ Documentation for minima is [here](https://github.com/jekyll/minima).
 
  - the big idea is: anything in `_docs/_*` overwrites the defailt file in the `minima` repo.
 
+ - Posts must be of the form `YYYY-MM-DD-post-title-with-hyphens` to show up.
